@@ -1,0 +1,2 @@
+# ms
+Stadalone spring boot
